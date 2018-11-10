@@ -130,9 +130,9 @@ body > section,
 }
 
 #preloader > img {
-  left: 47%;
+  left: 42%;
   position: absolute;
-  top: 48%;
+  top: 45%;
 }
 
 
@@ -436,7 +436,10 @@ top: -8px;
 /*=========================================
 	Our Team Member
 ==========================================*/
-
+.member-thumb1 {
+  width: 200px;
+  position: relative;
+}
 .member-thumb {
   width: 273px;
   position: relative;
